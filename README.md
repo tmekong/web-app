@@ -1,4 +1,4 @@
-# maven-project
+# web-app project
 
 Simple Maven Project conflict
 
